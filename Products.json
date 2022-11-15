@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "product_name": "Girls top",
+    "category": "Fashion",
+    "category_id": 1,
+    "Price": 2000,
+    "Size": "Small",
+    "Color": "Maroon",
+    "Brand": "Gucci"
+  },
+  {
+    "id": 2,
+    "product_name": "Girls top",
+    "category": "Fashion",
+    "category_id": 1,
+    "Price": 1500,
+    "Size": "Medium",
+    "Color": "Blue",
+    "Brand": "Westside"
+  },
+  {
+    "id": 3,
+    "product_name": "Iron",
+    "category": "Fashion",
+    "category_id": 2,
+    "Price": 3000,
+    "Color": "Blue",
+    "company": "Havells"
+  },
+  {
+    "id": 4,
+    "product_name": "Iron",
+    "category": "Fashion",
+    "category_id": 2,
+    "Price": 4000,
+    "Color": "Black",
+    "company": "Bajaj"
+  }
+]
